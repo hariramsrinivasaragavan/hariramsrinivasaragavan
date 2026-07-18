@@ -12,12 +12,12 @@ Working as a graduate researcher, then an ML engineer, a problem solver and most
 
 ### Social Media
 
-[![](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg)](https://www.github.com/hariramsrinivasaragavan) [![](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg)](https://www.linkedin.com/in/hariramsrinivasaragavan)
+[![](https://cdn.simpleicons.org/github)](https://www.github.com/hariramsrinivasaragavan) [![](https://cdn.simpleicons.org/linkedin)](https://www.linkedin.com/in/hariramsrinivasaragavan)
 
 ### Badges
 
 **My GitHub Stats**
 
-[![hariramsrinivasaragavan's GitHub stats](https://github-readme-stats.vercel.app/api?username=hariramsrinivasaragavan&show_icons=true&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true)](https://www.github.com/hariramsrinivasaragavan)
+[![hariramsrinivasaragavan's GitHub stats](https://github.com/anuraghazra/github-readme-stats/api?username=hariramsrinivasaragavan&show_icons=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true)](https://www.github.com/hariramsrinivasaragavan)
 
 [![](https://streak-stats.demolab.com/?user=hariramsrinivasaragavan&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true)](https://www.github.com/hariramsrinivasaragavan)
