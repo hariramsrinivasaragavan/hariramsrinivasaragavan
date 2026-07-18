@@ -26,7 +26,7 @@
 
 <p><b>M.Sc. Data Science Student · Applied ML · Open to Werkstudent / Praktikum</b></p>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-hari--ragavan.lovable.app-0d1117?style=for-the-badge&logo=vercel&logoColor=white)](https://hari-ragavan.lovable.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-hari--ragavan.lovable.app-0d1117?style=for-the-badge&logo=vercel&logoColor=white)](https://hariramsrinivasaragavan.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-hariramsrinivasaragavan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hariramsrinivasaragavan/)
 [![ORCID](https://img.shields.io/badge/ORCID-0009--0009--5362--4267-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0009-0009-5362-4267)
 [![ResearchGate](https://img.shields.io/badge/ResearchGate-Hari--Ram-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Hari-Ram-Srinivasa-Ragavan)
