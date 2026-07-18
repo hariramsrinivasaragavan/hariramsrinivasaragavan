@@ -1,84 +1,74 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a5f,100:0f172a&height=220&section=header&text=Hari%20Ram&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Data%20Science%20%7C%20ML%2FDL%20Engineer&descAlignY=55&descSize=20" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1e3a5f,100:0f172a&height=150&section=header&text=Hari%20Ram%20Srinivasa%20Ragavan&fontSize=36&fontColor=ffffff&fontAlignY=40&desc=M.Sc.%20Data%20Science%20%E2%80%94%20FAU%20Erlangen-N%C3%BCrnberg&descAlignY=65&descSize=15&animation=fadeIn" width="100%"/>
 
-<a href="https://github.com/hariramsrinivasaragavan">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=60&lines=M.Sc.+Data+Science+%40+FAU+Erlangen;ML%2FDL+Engineer+%7C+5x+IEEE+Publications;Building+low-friction%2C+production-ready+tools" />
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3200&pause=1200&color=2563EB&center=true&vCenter=true&width=650&lines=Machine+Learning+%2F+Data+Science;Applied+ML+%7C+Predictive+Modeling+%7C+NLP;Open+to+Werkstudent+%2F+Praktikum+Roles" alt="typing-svg" />
 
 </div>
 
----
+<br/>
 
-### 🧠 About Me
+## About
 
-- 🎓 M.Sc. **Data Science** student at **FAU Erlangen-Nürnberg** (WS25/26, expected graduation 2027)
-- 💼 B.E. Computer Science & Engineering, CGPA 8.17 (First Class)
-- 🔬 Background in ML/DL engineering — **5 IEEE publications**
-- 🏗️ Currently working on Pattern Analysis, Artificial Intelligence I, and a Project in Representation Learning
-- 🛠️ Passionate about building polished, production-ready tools — from data pipelines to personal productivity systems
-- 🌱 Always exploring the intersection of applied ML and thoughtfully designed software
+M.Sc. Data Science candidate at Friedrich-Alexander-Universität Erlangen-Nürnberg, currently in the third semester with an expected graduation in 2027. Background in applied machine learning and deep learning, with five IEEE publications from prior undergraduate research. Undergraduate degree: B.E. Computer Science and Engineering, CGPA 8.17 (First Class).
 
----
+Current coursework includes Pattern Analysis, Artificial Intelligence I, and a project in Representation Learning, building on completed modules in Pattern Recognition, Knowledge Discovery in Databases, and Specialisation ML/AI.
 
-### ⚙️ Tech Stack
+## Research
+
+| | |
+|---|---|
+| ORCID | [0009-0009-5362-4267](https://orcid.org/0009-0009-5362-4267) |
+| ResearchGate | [Hari-Ram-Srinivasa-Ragavan](https://www.researchgate.net/profile/Hari-Ram-Srinivasa-Ragavan) |
+| Publications | 5 IEEE conference papers — machine learning and deep learning |
+
+## Technical Skills
+
+| Area | Stack |
+|---|---|
+| Languages | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) |
+| Machine Learning | ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![scikit--learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white) |
+| Data Processing | ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white) |
+| Frontend / Tooling | ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white) ![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=three.js&logoColor=white) |
+| Platform | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white) |
+
+## Selected Work
+
+**Predictive Maintenance System** — CNN-LSTM architecture for equipment failure forecasting from sensor time-series data.
+
+**Visitronix** — Foot-traffic analytics platform for physical retail spaces.
+
+**Exercise Form Trainer** — Real-time pose correction using MediaPipe.
+
+**VR Robot Navigation** — Autonomous navigation research in a simulated environment.
+
+**NLP Side-Effect Extraction** — Identification of drug side effects from unstructured clinical text.
+
+> Repository links intentionally omitted here — add them once the corresponding repos are public so nothing points to a dead URL.
+
+## GitHub Activity
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![scikit--learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=hariramsrinivasaragavan&show_icons=true&theme=default&hide_border=true&count_private=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hariramsrinivasaragavan&layout=compact&theme=default&hide_border=true" />
+
+<img src="https://streak-stats.demolab.com/?user=hariramsrinivasaragavan&theme=default&hide_border=true" />
 
 </div>
 
----
+> These populate from public commit activity. If work is done in private repos, enable "Private contributions" from the dropdown above the contribution graph on your profile page for it to be counted.
 
-### 📊 GitHub Stats
+## Currently
 
-<div align="center">
+Actively seeking Werkstudent or Praktikum positions in Data Science, Machine Learning, or applied AI in Germany, alongside coursework and thesis-supervision outreach at FAU.
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=hariramsrinivasaragavan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hariramsrinivasaragavan&layout=compact&theme=tokyonight&hide_border=true" />
+## Connect
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=hariramsrinivasaragavan&theme=tokyonight&hide_border=true" />
+[LinkedIn](https://www.linkedin.com/in/hariramsrinivasaragavan/) · [Portfolio](https://hari-ragavan.lovable.app/) · [ORCID](https://orcid.org/0009-0009-5362-4267) · [ResearchGate](https://www.researchgate.net/profile/Hari-Ram-Srinivasa-Ragavan)
 
-</div>
-
----
-
-### 🐍 Contribution Snake
+<sub>Outside of engineering: film analysis, anime, and competitive gaming — [Letterboxd](https://letterboxd.com/beinghari/) · [MyAnimeList](https://myanimelist.net/profile/Beinghari) · [PSN](https://psnprofiles.com/beinghari)</sub>
 
 <div align="center">
-
-<img src="https://raw.githubusercontent.com/hariramsrinivasaragavan/hariramsrinivasaragavan/output/github-contribution-grid-snake-dark.svg" />
-
-</div>
-
-> ℹ️ The snake animation needs a one-time GitHub Actions setup (workflow file provided below) — it won't render until that runs once.
-
----
-
-### 🎮 Beyond the Code
-
-<div align="center">
-
-[![Letterboxd](https://img.shields.io/badge/Letterboxd-00D735?style=for-the-badge&logo=letterboxd&logoColor=white)](https://letterboxd.com/beinghari/)
-[![MyAnimeList](https://img.shields.io/badge/MyAnimeList-2E51A2?style=for-the-badge&logo=myanimelist&logoColor=white)](https://myanimelist.net/profile/Beinghari)
-[![PlayStation](https://img.shields.io/badge/PSN-003791?style=for-the-badge&logo=playstation&logoColor=white)](https://psnprofiles.com/beinghari)
-
-🎬 1,710+ films logged &nbsp;•&nbsp; 🎌 293 anime completed &nbsp;•&nbsp; 🏆 Platinum: Ghost of Tsushima & Ghost of Yotei
-
-</div>
-
----
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a5f,100:0f172a&height=100&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1e3a5f,100:0f172a&height=70&section=footer"/>
 </div>
